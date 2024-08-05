@@ -1,0 +1,7 @@
+repository =
+id = "racket-lsp"
+name = "Racket LSP"
+version = "0.0.1"
+schema_version = 1
+authors = ["Bhargav Kulkarni <bhargavkishork@gmail.com>"]
+description = "Racket with LSP"
